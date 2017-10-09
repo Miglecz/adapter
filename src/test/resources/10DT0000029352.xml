@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cdc-dottrina SYSTEM "cdc-dottrina.dtd">
+<cdc-dottrina>
+    <extra-info>
+        <extra-common flag-storico="n" chiave="10DT0000029352" omenid="9464135" flag-anteprima="n">
+            <extra-sottotipo id-ga="i1" label="Inquadramento"/>
+            <extra-operasez>
+                <extra-atomo id-ga="i96" codice="GACF" contesto="fiscale"/>
+                <extra-atomo id-ga="i141" codice="IYCF" contesto="fiscale"/>
+                <extra-atomo id-ga="i95" codice="GAAT" contesto="fiscale"/>
+            </extra-operasez>
+        </extra-common>
+        <extra-item id-ga="i1" chiave="10DT0000029352SOMM" tipo-elem="1">
+            <extra-classificazione>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15" codice="15" peso="0" atomo="GACF" livello="1">MOSS</extra-classinfo>
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15.1" codice="15.1" peso="10" atomo="GACF" livello="2">MOSS Mini one stop shop</extra-classinfo>
+                </extra-classvoce>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GAAT_4_xDOC" id-ga="iGAAT_4_xDOC_7" codice="7" peso="0" atomo="GAAT" livello="1">Iva e Dogane</extra-classinfo>
+                </extra-classvoce>
+            </extra-classificazione>
+            <extra-riferimenti>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000812396ART14" contesto="unico">DLgs. 42/2015 artt. 2</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000813102ART0" contesto="unico">DM 20.4.2015</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000812396ART21" contesto="unico">DLgs. 42/2015 9</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000109684ART36738454" contesto="unico">DPR 633/72 art. 74-octies</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000833610ART0" contesto="unico">Provv. Agenzia delle Entrate 26.7.2016 n. 118987</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000749411ART0" contesto="unico">Direttiva 2006/112/C art. 358</extra-descrizione>
+                    <extra-descrizione id-ga="10LX0000749411ART0" contesto="unico">Direttiva 2006/112/C art. 369-duodecies</extra-descrizione>
+                    <extra-descrizione id-ga="10LX0000749411ART0" contesto="unico">Reg. UE 282/2011 artt. 58</extra-descrizione>
+                    <extra-descrizione id-ga="10LX0000749411ART0" contesto="unico">Reg. UE 282/2011 art 63</extra-descrizione>
+                </extra-estremo>
+                <extra-estremo tipo="provn">
+                    <extra-descrizione id-ga="10LX0000109684ART94" contesto="unico">artt. 74-quinquies</extra-descrizione>
+                </extra-estremo>
+            </extra-riferimenti>
+        </extra-item>
+        <extra-item id-prev="10DT0000029352ART40" id-ga="i5" chiave="10DT0000029352ART6" tipo-elem="5">
+            <extra-classificazione>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15" codice="15" peso="0" atomo="GACF" livello="1">MOSS</extra-classinfo>
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15.1" codice="15.1" peso="10" atomo="GACF" livello="2">MOSS Mini one stop shop</extra-classinfo>
+                </extra-classvoce>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GAAT_4_xDOC" id-ga="iGAAT_4_xDOC_7" codice="7" peso="0" atomo="GAAT" livello="1">Iva e Dogane</extra-classinfo>
+                </extra-classvoce>
+            </extra-classificazione>
+        </extra-item>
+        <extra-item id-ga="i5" chiave="10DT0000029352ART40" tipo-elem="5" id-next="10DT0000029352ART6">
+            <extra-classificazione>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15" codice="15" peso="0" atomo="GACF" livello="1">MOSS</extra-classinfo>
+                    <extra-classinfo classid="GACF_4_xDOC" id-ga="iGACF_4_xDOC_15.1" codice="15.1" peso="10" atomo="GACF" livello="2">MOSS Mini one stop shop</extra-classinfo>
+                </extra-classvoce>
+                <extra-classvoce contesto="fiscale">
+                    <extra-classinfo classid="GAAT_4_xDOC" id-ga="iGAAT_4_xDOC_7" codice="7" peso="0" atomo="GAAT" livello="1">Iva e Dogane</extra-classinfo>
+                </extra-classvoce>
+            </extra-classificazione>
+        </extra-item>
+    </extra-info>
+</cdc-dottrina>
